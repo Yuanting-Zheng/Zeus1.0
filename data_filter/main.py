@@ -1,20 +1,20 @@
 import sys
 from def_filter import filter
-file = sys.argv[1]  # 获取需要过滤的文件
+file = sys.argv[1]  #
 
-k = sys.argv[2] # 需要过滤的长度
+k = sys.argv[2] #
 
-f = open(file,'r')  # 打开这个文件
-lines = f.readlines()  #读取这个文件的line
-n = len(lines)        #获得总的行数
-dict = {}             # 创建一个字典
+f = open(file,'r')  #
+lines = f.readlines()  #
+n = len(lines)
+dict = {}             #
 
-for i in range(0,n,2):           # 两行两行进行（所以前提是这个文件是一行名字一行序列）
-    key = lines[i].strip()        # 制作一个字典  key 序列名字 value 序列数量
+for i in range(0,n,2):           #
+    key = lines[i].strip()        #
     value = lines[i+1].strip()
     dict[key] = value
 
-f2 = open("raw_dict",'w')  #制作一个临时的字典
+f2 = open("raw_dict",'w')  #
 f2.write(str(dict))
 f2.close()
 f.close()

@@ -1,16 +1,16 @@
 def filter(sequence,k):
 
     if len(sequence) % 3 != 0:
-        return 1    # 长度不是3的倍数
+        return 1    #
 
     if sequence[:3] != 'ATG':
-        return 2     # 不是起始密码子开头
+        return 2     #
 
     if sequence[-3:] not in ['TAA','TGA','TAG']:
-        return 3     # 不是终止密码子结尾
+        return 3     #
 
     if len(sequence) < int(k):
-        return 4        # 长度不符合我们的规定
+        return 4        #
     cnt = {}
     cnt['A'] = 0
     cnt['T'] = 0
@@ -20,7 +20,7 @@ def filter(sequence,k):
         if i in ["A","T","C","G"]:
             cnt[i]+=1
     if cnt['A']+cnt['T']+cnt['C']+cnt['G'] != len(sequence):
-        return 5           #含有非ATCG的字母
+        return 5           #
 
-    return 6             # 正常的序列
+    return 6             #
 

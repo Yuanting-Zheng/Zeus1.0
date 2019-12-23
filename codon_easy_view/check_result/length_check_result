@@ -1,0 +1,8 @@
+total check number：
+4228
+total check 4228 transcripts
+cds*3 = pep：0
+(cds-3)*3 = pep, 3 is Terminate codon：4228
+(cds-1)*3 = pep：0
+(cds-2)*3 = pep：0
+four situations all：4228

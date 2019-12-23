@@ -1,0 +1,27 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+trans_E.coilGFP_origin      MVSKGEEDNMASLPATHELHIFGSINGVDFDMVGQGTGNPNDGYEELNLKSTKGDLQFSP
+trans_E.coilGFP_single      MVSKGEEDNMASLPATHELHIFGSINGVDFDMVGQGTGNPNDGYEELNLKSTKGDLQFSP
+trans_E.coilGFP_pair        MVSKGEEDNMASLPATHELHIFGSINGVDFDMVGQGTGNPNDGYEELNLKSTKGDLQFSP
+                            ************************************************************
+
+trans_E.coilGFP_origin      WILVPHIGYGFHQYLPYPDGMSPFQAAMVDGSGYQVHRTMQFEDGASLTVNYRYTYEGSH
+trans_E.coilGFP_single      WILVPHIGYGFHQYLPYPDGMSPFQAAMVDGSGYQVHRTMQFEDGASLTVNYRYTYEGSH
+trans_E.coilGFP_pair        WILVPHIGYGFHQYLPYPDGMSPFQAAMVDGSGYQVHRTMQFEDGASLTVNYRYTYEGSH
+                            ************************************************************
+
+trans_E.coilGFP_origin      IKGEAQVKGTGFPADGPVMTNSLTAADWCRSKKTYPNDKTIISTFKWSYTTGNGKRYRST
+trans_E.coilGFP_single      IKGEAQVKGTGFPADGPVMTNSLTAADWCRSKKTYPNDKTIISTFKWSYTTGNGKRYRST
+trans_E.coilGFP_pair        IKGEAQVKGTGFPADGPVMTNSLTAADWCRSKKTYPNDKTIISTFKWSYTTGNGKRYRST
+                            ************************************************************
+
+trans_E.coilGFP_origin      ARTTYTFAKPMAANYLKNQPMYVFRKTELKHSKTELNFKEWQKAFTDVMGMDELYKHHHH
+trans_E.coilGFP_single      ARTTYTFAKPMAANYLKNQPMYVFRKTELKHSKTELNFKEWQKAFTDVMGMDELYKHHHH
+trans_E.coilGFP_pair        ARTTYTFAKPMAANYLKNQPMYVFRKTELKHSKTELNFKEWQKAFTDVMGMDELYKHHHH
+                            ************************************************************
+
+trans_E.coilGFP_origin      HH
+trans_E.coilGFP_single      HH
+trans_E.coilGFP_pair        HH
+                            **
